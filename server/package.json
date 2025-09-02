@@ -1,11 +1,11 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "main": "node server/src/server.js",
+  "main": "node src/server.js",
   "type": "module",
   "scripts": {
-    "start": "node server/src/server.js",
-    "dev": "nodemon server/src/server.js"
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
   },
   "author": "Bhupendra Singh",
   "license": "ISC",
